@@ -1,0 +1,4 @@
+outboard_repository=Good-Great-Grand-Wonderful/gggw-zmk-keebs
+outboard_ref=main
+outboard_from=boards/arm/levels54
+outboard_to=boards/arm/levels54
